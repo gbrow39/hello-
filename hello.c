@@ -6,6 +6,7 @@
  int main(void) {
 
    printf("Hello World\n");
+   printf("Major: Computer Science");
 
    return 0;
  }
