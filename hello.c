@@ -3,10 +3,14 @@
  * Program: Simple Hello World Program
  */
 
- int main(void) {
+#include <stdlib.h>
+#include <stdio.h>
+	int main(void) {
 
    printf("Hello World\n");
    printf("Major: Computer Science");
+   printf("Nick Aldridge\n");
+   printf("Major: Civil Engineering\n");
 
    return 0;
  }
